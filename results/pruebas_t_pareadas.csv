@@ -1,9 +1,9 @@
 escenario,comparacion,dif_media,t,p_valor
-S1 Base,LL: HMM aprendido vs Markov visible,0.010161048797355491,6.593534519713781,2.1154238185815314e-09
-S1 Base,Exactitud: Viterbi aprendido vs sin memoria,-0.07175999999999999,-4.571180923985491,1.403220105971544e-05
-S2 Persistente y separable,LL: HMM aprendido vs Markov visible,0.030709396686994177,8.973851726716104,1.888579776171976e-14
-S2 Persistente y separable,Exactitud: Viterbi aprendido vs sin memoria,-0.05120000000000003,-3.052149005116232,0.0029172670352896057
-S3 Emisiones solapadas,LL: HMM aprendido vs Markov visible,-0.001778428250495936,-1.9178128925902436,0.05801665276287889
-S3 Emisiones solapadas,Exactitud: Viterbi aprendido vs sin memoria,-0.28958,-17.771701145645523,1.4457427292804694e-32
-S4 Red inestable,LL: HMM aprendido vs Markov visible,0.0029536020228826797,2.1145874398335187,0.03697658100653261
-S4 Red inestable,Exactitud: Viterbi aprendido vs sin memoria,-0.06814,-5.444111142999629,3.7891024289848043e-07
+S1 Base,LL: HMM aprendido vs Markov visible,0.01016104879735547,6.593534519713772,2.1154238185816166e-09
+S1 Base,Exactitud: Viterbi aprendido vs sin memoria,-0.07179999999999999,-4.574252312954172,1.3863461176016669e-05
+S2 Persistente y separable,LL: HMM aprendido vs Markov visible,0.03070939668699418,8.973851726716102,1.888579776171976e-14
+S2 Persistente y separable,Exactitud: Viterbi aprendido vs sin memoria,-0.05120000000000003,-3.052149005116232,0.002917267035289605
+S3 Emisiones solapadas,LL: HMM aprendido vs Markov visible,-0.0017784282504959515,-1.9178128925902589,0.05801665276287693
+S3 Emisiones solapadas,Exactitud: Viterbi aprendido vs sin memoria,-0.2841,-17.309748500362666,1.0458701012034244e-31
+S4 Red inestable,LL: HMM aprendido vs Markov visible,0.00295360202288266,2.1145874398335054,0.03697658100653376
+S4 Red inestable,Exactitud: Viterbi aprendido vs sin memoria,-0.06816000000000001,-5.444523680703553,3.782354580955514e-07
