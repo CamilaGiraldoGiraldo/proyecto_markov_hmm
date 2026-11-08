@@ -1,0 +1,8 @@
+[  33.5s] S1 Base listo
+[  59.1s] S2 Persistente y separable listo
+[  97.0s] S3 Emisiones solapadas listo
+[ 132.7s] S4 Red inestable listo
+[ 134.5s] sensibilidad A/B lista
+[ 205.4s] sensibilidad T lista
+[ 219.8s] sensibilidad init lista
+Reproducible (bit a bit): True | SHA-256: 390982cc92ec2ade... | total 224.0s
